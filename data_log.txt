@@ -1,0 +1,12 @@
+2025-09-29 20:55:31,644 - ERROR - Error during data loading: Missing column provided to 'parse_dates': 'closure_timestamp, creation_timestamp'
+2025-09-29 20:55:31,644 - ERROR - Data preparation failed: Missing column provided to 'parse_dates': 'closure_timestamp, creation_timestamp'
+2025-09-29 20:56:01,272 - ERROR - Error during data loading: Missing column provided to 'parse_dates': 'closure_timestamp, creation_timestamp'
+2025-09-29 20:56:01,273 - ERROR - Data preparation failed: Missing column provided to 'parse_dates': 'closure_timestamp, creation_timestamp'
+2025-09-29 22:30:37,928 - ERROR - Error during data loading: Missing column provided to 'parse_dates': 'closure_timestamp, creation_timestamp'
+2025-09-29 22:30:37,928 - ERROR - Data preparation failed: Missing column provided to 'parse_dates': 'closure_timestamp, creation_timestamp'
+2025-09-30 12:58:30,990 - ERROR - Error loading aa_dataset-tickets-multi-lang-5-2-50-version.csv: Missing column provided to 'parse_dates': 'closure_timestamp, creation_timestamp'
+2025-09-30 12:58:31,050 - ERROR - Error loading dataset-tickets-german_normalized.csv: Missing column provided to 'parse_dates': 'closure_timestamp, creation_timestamp'
+2025-09-30 12:58:31,091 - ERROR - Error loading dataset-tickets-german_normalized_50_5_2.csv: Missing column provided to 'parse_dates': 'closure_timestamp, creation_timestamp'
+2025-09-30 12:58:31,206 - ERROR - Error loading dataset-tickets-multi-lang-4-20k.csv: Missing column provided to 'parse_dates': 'closure_timestamp, creation_timestamp'
+2025-09-30 12:58:31,274 - ERROR - Error loading dataset-tickets-multi-lang3-4k.csv: Missing column provided to 'parse_dates': 'closure_timestamp, creation_timestamp'
+2025-09-30 12:58:31,274 - ERROR - Error in loading: No dataframes loaded from CSVs

@@ -1,0 +1,12 @@
+2025-09-30 12:58:22,212 - INFO - Running data_prep.py...
+2025-09-30 12:58:31,832 - ERROR - Traceback (most recent call last):
+  File "E:\IT_Ticketing_System\scripts\data_prep.py", line 84, in <module>
+    main()
+  File "E:\IT_Ticketing_System\scripts\data_prep.py", line 75, in main
+    df = load_and_merge_data('data')
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\IT_Ticketing_System\scripts\data_prep.py", line 29, in load_and_merge_data
+    raise ValueError('No dataframes loaded from CSVs')
+ValueError: No dataframes loaded from CSVs
+
+2025-09-30 12:58:31,832 - ERROR - Error in data_prep.py: data_prep.py failed
